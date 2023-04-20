@@ -4,8 +4,47 @@
     ViewData["Title"] = "Home page";
 }
 
-<body>
+<script type="text/javascript">
+    
+    function clickPlay(s, e) {
+        
+        window.location.href = '/Chess';
 
+        /*$.ajax({
 
+        })
+        .done()
+        */
 
+    }
+
+</script>
+
+<script type="text/javascript" >
+    
+    function checkLogin(s, e) {
+
+        $.ajax(
+
+        )
+
+    }
+
+</script>
+
+<body onload="checkLogin">
+    <table>
+        <tr>
+            <td>
+                <button id="btnPlay" title="Play" onclick="clickPlay"/>   
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+
+                </table>
+            </td>
+        </tr>
+    </table>
 </body>
