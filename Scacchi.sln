@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33617.297
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scacchi", "Scacchi.csproj", "{1F5AB28B-50BE-45DB-9334-326461692E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5AB28B-50BE-45DB-9334-326461692E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5AB28B-50BE-45DB-9334-326461692E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5AB28B-50BE-45DB-9334-326461692E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5AB28B-50BE-45DB-9334-326461692E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8D4CDE-08B0-49C9-97E2-BCD38827D40B}
+	EndGlobalSection
+EndGlobal
